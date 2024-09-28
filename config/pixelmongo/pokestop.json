@@ -1,0 +1,7 @@
+{
+  "disablePokestopSpawn": false,
+  "averageDistance": 15,
+  "minDistance": 7,
+  "minItems": 3,
+  "maxItems": 5
+}
